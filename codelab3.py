@@ -9,7 +9,7 @@ def get_average(num_list):
 #Main function
 def main():
     my_words = ['Hello', 'apple', 'one']
-    my_numbers = [5,6,7,9.99912]
+    my_numbers = [5,6,7,9]
     my_cards = ['2 of Hearts', '6 of Spades', 'Jack of Diamonds', 'Queen of clubs', 'King of Clubs']
 
     #frame_this(my_words)
